@@ -16,7 +16,7 @@ From 2nd to last columns contain numeric values only
 Command Prompt<br>
 ```topsis <InputDataFile> <Weights> <Impacts> <ResultFileName>```<br>
 Example:<br>
-```topsis inputfile.csv “1,1,1,2” “+,+,-,+” result.csv```<br><br>
+```topsis inputfile.csv “1112” “++-+” result.csv```<br><br>
 <i>Note: The weights and impacts should be ',' seperated, input file should be in pwd.</i> 
 <ii>Note: Please do not add non numeric values it wont give accurate results
 
